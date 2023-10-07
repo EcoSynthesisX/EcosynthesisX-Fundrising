@@ -1,102 +1,73 @@
-# EcosynthesisX Regenerative public goods | Eco & Tech
+# EcosynthesisX: Regenerative Public Goods | Eco & Tech
 
-We are community of impact creators advocating and promoting regenerative and sustainable life approaches with promoting of contribution to public goods.
+Welcome to EcosynthesisX, a vibrant community of impact creators dedicated to advocating and promoting regenerative and sustainable life approaches while actively contributing to public goods.
 
-Problem Statement: We are facing critical environmental challenges, exacerbated by traditional business practices and a lack of effective solutions.
+## Problem Statement
 
-Our mission: Protect environment, educate and onboard community, implement web3 solutions
+We are confronted by critical environmental challenges, compounded by conventional business practices that often exacerbate these issues. There is a pressing need for effective solutions to address these concerns.
 
-Our initiatives:
+## Our Mission
 
-Air quality Smart Bot
-•in the vision -> an environmental consultant in your pocket with AQ report, recommendations and opportunity to chat with the bot for getting knowledge;
+- Protect the environment
+- Educate and onboard the community
+- Implement Web3 solutions
 
-•for now -> beta version with AQ report on koh Phangan in Twitter and report + recommendations on Telegram
+## Our Initiatives
 
-Tokenized solutions for public goods creators
-•Implementation of enviromental tokens solutions with blockchain verification and distribution on koh Phangan. Empower or Plastiks e.g;
+### Air Quality Smart Bot
+- Vision: An environmental consultant in your pocket, offering air quality (AQ) reports, recommendations, and the opportunity to chat with the bot for knowledge.
+- Current: Beta version providing AQ reports on Koh Phangan via Twitter and reports with recommendations on Telegram.
 
-•NFT as a decentralized capital redistribution mechanism to founding public goods. Onboarding local nonprofits into web3 with NFT game
+### Tokenized Solutions for Public Goods Creators
+- Implementation of environmental token solutions with blockchain verification and distribution on Koh Phangan. Empower initiatives like "Plastiks," etc.
+- Utilize NFTs as a decentralized capital redistribution mechanism for funding public goods and onboarding local nonprofits into Web3 through a NFT game.
 
-Gamified Web3 Marketplace for public goods
-Users:
+### Gamified Web3 Marketplace for Public Goods
 
-•Order from verified public good creators & sustainable service providers;
+Users Can:
+- Order from verified public goods creators and sustainable service providers
+- Contribute to public goods
+- Receive rewards for regenerative life practices
+- Utilize OG NFTs to gain CONTRIBUTOR access to public goods
 
-•Contribute for public goods;
+Public Good Creators & Service Providers Can:
+- Open service-providing points in our Web3 marketplace
+- Earn rewards for regenerative business practices
+- Connect with an audience that cares
+- Receive funding and support from contributors
 
-•Get rewards for regenerative life practices
+### Events Offline & Online
+- Host in-person events for the local community
+- Organize global online events through Community Calls and Spaces
 
-•Use OG NFT to get CONTRIBUTOR access for public goods
+## Community Members [Contributing/Contributed]
+- Paul Burg: Founder, Plastic Tokens/NFT/Marketplace [In Development]
+- Phil: AQ Smart Bot Alpha
+- Leo: AQ Smart Bot Beta [In Development]
+- Rod Mamin: Web3 Consulting
+- Anastasia: NFT Collection [In Development]
+- Max: Project Manager Support
+- Arthur Picolo: Partnership Support
+- Mark Golberg: Website v.1
 
-Public good creators & service providers:
+## Main Obstacles
+- Lack of manpower and funds
 
-•Open your service providing point in our web3 marketplace;
+## Things Done
+- Telegram group for team and community ✅
+- Twitter for communication and collaboration ✅
+- Giveth donation page ✅
+- AQ Smart Bot alpha ✅
+- Offline/online events ✅
+- Previous experience with solving waste and burning problems collected and processed ✅
+- Traditional approach solutions designed and presented (waste taxes, government subsidies, etc.) ✅
+- List of traditional local non-profit organizations to cooperate with and introduce to Web3 ✅
+- Designed solutions for reducing garbage burning and increasing the collection of recyclables ✅
+- NFT design ✅
+- Founder contributes full-time ✅
+- Green Pill round 2Q ✅
+- GR18 ✅
+- Regular team meetups on Mon/Wed/Fri ✅
+- Thursday Spaces Community Calls ✅
 
-•Get rewards for regenerative business practices;
-
-•Get in touch with audience who cares;
-
-•Get founding and support from contributors
-
-Events offline & online
-•IRL events for local community
-
-•Global online events via Community Calls and Spaces
-
-Community members [contributing/contributed]:
-
-Paul Burg -> founder, plastic tokens/NFT/marketplace [in development]
-
-Phil -> AQ smart bot alpha
-
-Leo -> AQ smart bot beta [in development]
-
-Rod Mamin -> web3 consulting
-
-Anastasia -> NFT collection [in development]
-
-Max -> project manager support
-
-Arthur Picolo -> partnership support
-
-Mark Golberg -> website v.1
-
-Main obstacles:
-
-Leak of man power & funds
-Things done:
-
-TG for team & community ✅
-
-Twitter for communication & collaboration ✅
-
-Giveth donation page ✅
-
-AQSB alpha done ✅
-
-Offline/online events ✅
-
-Previous experience with solving wastes and burning problem is collected and processed ✅
-
-Traditional approach solutions designed and presented (wastes taxes, subsidies from government and etc) ✅
-
-List of traditional local non-profit organizations to cooperate with and bring them web3 ✅
-
-Designed solutions for reducing garbage burning and increase amount of collected recyclables ✅
-
-NFT design ✅
-
-Founder contributes full time ✅
-
-Green Pill round 2Q ✅
-
-GR18 ✅
-
-Mom/Wed/Fri public team meetups ✅
-
-Thursday Spaces Community Calls ✅
-
-
-
-Welcome to join our regular Thursday 1500 UTC X Space. Follow our x.com/ecosynthesisx for updates and jump into our community Telegram chat.
+Welcome to join our regular Thursday 1500 UTC X Space. Follow our [Website](https://x.com/ecosynthesisx) for updates and jump into our community Telegram chat.
